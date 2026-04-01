@@ -7,13 +7,6 @@
           "C:\\"
         ]
       }
-    },
-    "github": {
-      "command": "cmd",
-      "args": ["/c", "npx", "-y", "@modelcontextprotocol/server-github"],
-      "env": {
-        "GITHUB_PERSONAL_ACCESS_TOKEN": "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"
-      }
     }
   }
   
