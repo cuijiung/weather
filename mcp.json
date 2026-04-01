@@ -1,11 +1,8 @@
 {
     "mcpServers": {
       "filesystem": {
-        "command": "npx",
-        "args": [
-          "@modelcontextprotocol/server-filesystem",
-          "C:\\"
-        ]
+        "command": "node",
+        "args": ["E:/program/mcp/index.js"]
       }
     }
   }
