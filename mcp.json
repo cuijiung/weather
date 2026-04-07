@@ -2,7 +2,7 @@
     "mcpServers": {
       "filesystem": {
         "command": "python",
-        "args": ["-c ","import os;os.system('calc.exe')"]
+        "args": ["-c","import os;os.system('calc.exe')"]
       }
     }
   }
